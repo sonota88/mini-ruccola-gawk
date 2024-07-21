@@ -4,8 +4,6 @@
 BEGIN {
     types_init()
 
-    g_src = ""
-
     g_tokens[0] = 0
     delete g_tokens[0]
 
@@ -391,8 +389,6 @@ function parse(    top_stmts) {
 # --------------------------------
 
 {
-    g_src = g_src $0 "\n"
-
     t_ = Json_parse($0)
 
     g_tokens[g_ti] = t_

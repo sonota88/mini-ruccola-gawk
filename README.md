@@ -24,16 +24,16 @@ cd mini-ruccola-gawk
 
   396 mrcl_codegen.awk
    74 mrcl_lexer.awk
-  406 mrcl_parser.awk
+  402 mrcl_parser.awk
   105 lib/json.awk
   114 lib/types.awk
    31 lib/utils.awk
- 1126 total
+ 1122 total
 
   LANG=C wc -l mrcl_*.awk
 
   396 mrcl_codegen.awk
    74 mrcl_lexer.awk
-  406 mrcl_parser.awk
-  876 total
+  402 mrcl_parser.awk
+  872 total
 ```
