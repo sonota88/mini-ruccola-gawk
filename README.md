@@ -1,4 +1,4 @@
-Gawk (GNU Awk) port of [Mini Ruccola (vm2gol-v2)](https://github.com/sonota88/vm2gol-v2) compiler
+AWK (gawk) port of [Mini Ruccola (vm2gol-v2)](https://github.com/sonota88/vm2gol-v2) compiler
 
 ---
 
