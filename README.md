@@ -1,5 +1,8 @@
 AWK (gawk) port of [Mini Ruccola (vm2gol-v2)](https://github.com/sonota88/vm2gol-v2) compiler
 
+AWK（gawk）でシンプルな自作言語のコンパイラを書いた  
+https://qiita.com/sonota88/items/2e2fd758b491c94dc821
+
 ---
 
 ```
